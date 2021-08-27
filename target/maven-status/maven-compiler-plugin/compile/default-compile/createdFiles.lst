@@ -1,0 +1,5 @@
+com\MultiLanguageLocale\rough\ReadingPropertiesFile.class
+com\MultiLanguageLocale\factory\DriverFactory.class
+com\MultiLanguageLocale\util\ElementUtil.class
+com\MultiLanguageLocale\configReader\ConfigPropReader.class
+com\MultiLanguageLocale\pages\HomePage.class
